@@ -15,11 +15,11 @@ To get started with the React app, follow the instructions below:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone [repository-url]
+   git clone git clone https://github.com/keegz1998/eng-test.git
     ```
 2. Clone the repository to your local machine:
    ```bash
-   cd zeppz-test
+   cd eng-test
     ```
 3. Install the dependencies:
    ```bash
